@@ -1,0 +1,14 @@
+langchain 
+langchain-community 
+langchain-huggingface 
+pinecone-client 
+python-dotenv 
+sentence-transformers
+pypdf
+streamlit
+groq
+pinecone-client
+transformers
+requests 
+dspy
+tavily-python
